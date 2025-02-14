@@ -1,4 +1,4 @@
-# CSV data to Database Uploader project
+# Fastapi crud project
 
 This project is a simple fast api CRUD project
 
